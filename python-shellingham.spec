@@ -1,6 +1,6 @@
 Summary:	A tool to Detect Surrounding Shell
 Name:		python-shellingham
-Version:	1.5.1
+Version:	1.5.4
 Release:	1
 License:	ISC
 Group:		Development/Python
